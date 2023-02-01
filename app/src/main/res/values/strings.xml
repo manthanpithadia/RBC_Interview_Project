@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RBC_Interview</string>
+    <string name="str_account_name">Chequing</string>
+    <string name="str_account_number">XXXX XXXX 0123</string>
+    <string name="str_account_balance">$2452.50</string>
+    <string name="str_accounts">Accounts</string>
+    <string name="str_fab">Refresh</string>
+    <string name="str_transaction_title">Recent Transactions</string>
+    <string name="str_transaction_list">Transaction List</string>
+    <string name="strNoData">oops!! No Data Found</string>
+    <string name="str_by_credit">by Credit Card</string>
+    <string name="str_img_payment">Img payment</string>
+</resources>
